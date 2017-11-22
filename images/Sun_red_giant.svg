@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="727.50653"
+   height="646.42853"
+   id="svg1901"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="Sun_red_giant.svg"
+   sodipodi:docbase="/home/jonttu/wp"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2296">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="669"
+     inkscape:window-width="932"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     width="860px"
+     height="646.42853px"
+     inkscape:zoom="0.58629838"
+     inkscape:cx="326.02565"
+     inkscape:cy="275.36138"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg1901" />
+  <defs
+     id="defs1903">
+    <linearGradient
+       id="linearGradient3221">
+      <stop
+         style="stop-color:#f0691a;stop-opacity:1"
+         offset="0"
+         id="stop3223" />
+      <stop
+         style="stop-color:#d11116;stop-opacity:1"
+         offset="1"
+         id="stop3225" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3211">
+      <stop
+         style="stop-color:#fdfb00;stop-opacity:1"
+         offset="0"
+         id="stop3213" />
+      <stop
+         style="stop-color:#f4f900;stop-opacity:0.49803922"
+         offset="0.85714287"
+         id="stop3219" />
+      <stop
+         style="stop-color:#ebf800;stop-opacity:0"
+         offset="1"
+         id="stop3215" />
+    </linearGradient>
+    <radialGradient
+       cx="47.142857"
+       cy="243.79076"
+       r="24.285715"
+       fx="47.142857"
+       fy="243.79076"
+       id="radialGradient3217"
+       xlink:href="#linearGradient3211"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       cx="412.85715"
+       cy="315.21933"
+       r="267.14285"
+       fx="412.85715"
+       fy="315.21933"
+       id="radialGradient3227"
+       xlink:href="#linearGradient3221"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5860329,-0.1894924,0.2044056,1.7108544,-306.38045,-145.84176)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3211"
+       id="radialGradient2451"
+       gradientUnits="userSpaceOnUse"
+       cx="47.142857"
+       cy="243.79076"
+       fx="47.142857"
+       fy="243.79076"
+       r="24.285715"
+       gradientTransform="matrix(5.6761762e-2,0,0,5.6761762e-2,144.19599,546.46548)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3221"
+       id="radialGradient2454"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6369217,-0.1955724,0.2109641,1.7657482,-445.60046,-159.14021)"
+       cx="412.85715"
+       cy="315.21933"
+       fx="412.85715"
+       fy="315.21933"
+       r="267.14285" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3211"
+       id="radialGradient2487"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.567618,0,0,0.567618,383.68543,306.46843)"
+       cx="47.142857"
+       cy="243.79076"
+       fx="47.142857"
+       fy="243.79076"
+       r="24.285715" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3221"
+       id="radialGradient2490"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(16.369228,-1.9557254,2.1096425,17.657494,-5514.2832,-6749.5934)"
+       cx="412.85715"
+       cy="315.21933"
+       fx="412.85715"
+       fy="315.21933"
+       r="267.14285" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4447">
+      <rect
+         width="338.94315"
+         height="216.51385"
+         x="333.13602"
+         y="323.45425"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4449" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4451">
+      <rect
+         width="338.94315"
+         height="216.51385"
+         x="333.13602"
+         y="323.45425"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4453" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       id="filter7380">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.053113"
+         id="feGaussianBlur7382" />
+    </filter>
+  </defs>
+  <rect
+     id="rect3209"
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     y="-2.1316282e-14"
+     x="0"
+     height="646.42853"
+     width="727.50653" />
+  <path
+     id="path2218"
+     style="opacity:1;fill:url(#radialGradient2454);fill-opacity:1;stroke:none;stroke-width:7;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 572.4286,316.7143 C 572.4286,468.9871 448.9871,592.42859 296.71431,592.4286 C 144.4415,592.4286 21.00001,468.9871 21.00001,316.7143 C 21.00001,164.44151 144.4415,41.000008 296.71431,41.000008 C 448.9871,41.000008 572.4286,164.44151 572.4286,316.7143 z " />
+  <path
+     style="opacity:1;fill:#000000;fill-opacity:0.16733069;stroke:none;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 139.00772,548.3556 L 332.59515,322.36145 L 671.15996,538.1219 L 172.26723,569.6758 L 139.00772,548.3556 z "
+     id="path5424"
+     sodipodi:nodetypes="ccccc" />
+  <rect
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4432"
+     width="405.93665"
+     height="281.42667"
+     x="303.59967"
+     y="288.24915"
+     clip-path="url(#clipPath4451)" />
+  <path
+     id="path2220"
+     style="opacity:1;fill:url(#radialGradient2451);fill-opacity:1;stroke:none;stroke-width:7;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 148.2504,560.30347 C 148.2504,561.06479 147.63322,561.68197 146.8719,561.68197 C 146.11057,561.68197 145.4934,561.06479 145.4934,560.30347 C 145.4934,559.54214 146.11057,558.92497 146.8719,558.92497 C 147.63322,558.92497 148.2504,559.54214 148.2504,560.30347 z " />
+  <text
+     xml:space="preserve"
+     id="text2222"
+     style="font-size:18px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans"
+     y="487.44098"
+     x="346.58475"><tspan
+       id="tspan2224"
+       y="487.44098"
+       x="346.58475">The Sun as a main-sequence star</tspan><tspan
+       id="tspan2226"
+       y="509.94098"
+       x="346.58475">(diameter <tspan
+   id="tspan2288"
+   y="509.93738">≈ 0.01 AU)</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2230"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans"
+     y="191.3064"
+     x="105.17359"
+     sodipodi:linespacing="125%"><tspan
+       id="tspan2232"
+       y="191.3064"
+       x="105.17359"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans">The Sun as a red giant</tspan><tspan
+       id="tspan2234"
+       y="213.8064"
+       x="105.17359"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans">(diameter ≈ 2 AU)</tspan></text>
+  <rect
+     id="rect2460"
+     style="opacity:1;fill:#ffffff;fill-opacity:0.27322406;stroke:#ffffff;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     y="548.16406"
+     x="139.14105"
+     height="21.651371"
+     width="33.894291" />
+  <path
+     d="M 424.22956,444.84842 C 424.22956,452.46163 418.05775,458.63343 410.44455,458.63343 C 402.83124,458.63343 396.65954,452.46163 396.65954,444.84842 C 396.65954,437.23512 402.83124,431.06341 410.44455,431.06341 C 418.05775,431.06341 424.22956,437.23512 424.22956,444.84842 z "
+     style="fill:url(#radialGradient2487);fill-opacity:1;stroke:none;stroke-width:7;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path2464" />
+  <path
+     d="M 4666.0145,-1991.045 C 4666.0145,-468.31592 3431.5987,766.09985 1908.8697,766.09995 C 386.14053,766.09995 -848.27523,-468.31592 -848.27523,-1991.045 C -848.27523,-3513.7739 386.14053,-4748.1898 1908.8697,-4748.1898 C 3431.5987,-4748.1898 4666.0145,-3513.7739 4666.0145,-1991.045 z "
+     style="fill:url(#radialGradient2490);fill-opacity:1;stroke:none;stroke-width:7;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7380)"
+     id="path2462"
+     clip-path="url(#clipPath4447)" />
+  <rect
+     id="rect3461"
+     style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     y="323.45422"
+     x="333.13602"
+     height="216.51385"
+     width="338.94315" />
+</svg>
